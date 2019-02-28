@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "loadOn": "startup"
+    },
+    "servers": ["https://raw.githubusercontent.com/Yuyuko-sama/owo/master/"],
+    "name": "xigncode-bypass",
+    "description": "Description goes here."
+}
